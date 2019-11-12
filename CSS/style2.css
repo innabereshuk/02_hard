@@ -1,0 +1,121 @@
+.container {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background: rgb(153, 10, 10);
+    max-width: 1000px;
+    height: 760px;
+    color: white;
+}
+
+.center {
+  text-align: center;
+}
+
+img {
+    margin: 25px 0 0 0;
+}
+
+
+.tab {
+    margin: 22px 22px 0 22px;
+    padding-bottom: 10px;
+}
+
+.black {
+    background: black;
+    margin: 0 5px 0 8px;
+    height: 218px;
+}
+
+.line {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    margin: auto;
+}
+
+a:hover { 
+    color: rgb(150, 19, 10);
+}
+
+
+.menu {
+    float: left;
+    line-height: 2;
+    background: rgb(109, 19, 13);
+    width: 220px;
+    margin: 5px 0 0 8px;
+    height: 350px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.menu aside ul li a {
+    color: rgb(241, 88, 60);
+}
+
+.menu aside ul li a:hover {
+    color: white;
+}
+
+.text {
+    width: 764px;
+    height: 350px;
+    float: right;
+    margin: 5px 5px 0 0
+}
+
+.bok {
+    background: rgb(214, 212, 207);
+    width: 150px;
+    color: black;
+    padding-left: 2px;
+}
+
+.bok p {
+    border-top: 1px solid gray; 
+    padding-top: 20px;
+}
+
+.content {
+    height: 400px;
+}
+
+.center1 {
+    text-align: center;
+    background: rgb(181, 182, 184);
+    color: black;
+    font-weight: 600;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 5px 0 0;
+}
+
+footer {
+    display: block;;
+    text-align: center;
+    background: rgb(199, 93, 17);
+    height: 30px;
+    margin: 0 6px 0 6px;
+    font-size: 21px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
